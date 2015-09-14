@@ -1,2 +1,5 @@
+// Styles
+import './styles/main.styl'
 
-console.log('op')
+// Javascript
+import './components/app.jsx'
